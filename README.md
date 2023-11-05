@@ -1,2 +1,3 @@
 # palautusrepositorio
-Ohjelmistotuotanto kurssin palautusrepositorio.
+
+https://github.com/CoolMcRad/ohtuvarasto
