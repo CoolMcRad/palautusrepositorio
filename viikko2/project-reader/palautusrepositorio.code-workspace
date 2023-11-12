@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../project-reader"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
