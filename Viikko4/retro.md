@@ -1,4 +1,4 @@
-# Retrospektiivitekniikat
+# Retrospektiivitekniikat 
 
 Retrospektiivin ideana on miettiä miten seuraavaa sprinttiä voidaan parantaa, juuri käydyn, edellisen sprintin työskentelyprosessin tarkastelemisella.
 Tutustuin kahteen retrospektiivi tekniikkaan. 
