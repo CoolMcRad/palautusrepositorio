@@ -50,6 +50,9 @@ class HasFewerThan:
         return player_value < self._value
     
 class All:
+    def __init__(self, *matchers):
+        self._matchers = matchers
+
     def test(self, player):
         if player is not None:
             return True
